@@ -5,5 +5,7 @@
       "path": "C:/Program Files/Microsoft/jdk-17.0.18.8-hotspot",
       "default": true
     }
-  ]
+  ],
+  "java.debug.settings.console": "internalConsole",
+  "java.configuration.updateBuildConfiguration": "automatic"
 }

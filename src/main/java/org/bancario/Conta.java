@@ -1,4 +1,4 @@
-package org.exemplo;
+package org.bancario;
 
 public class Conta {
     private static int SEQUENCIAL = 1;
@@ -11,6 +11,7 @@ public class Conta {
         this.saldo = 0;
         this.id = SEQUENCIAL++;
     }
+
     public int getId() {
         return id;
     }
@@ -24,6 +25,9 @@ public class Conta {
     }
 
     public void depositar(double valor) {
+        if (valor <= 0) {
+            throw new IllegalArgumentException("Valor invalido");
+        }
         saldo += valor;
     }
 

@@ -1,4 +1,4 @@
-package org.exemplo;
+package org.bancario;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -28,8 +28,13 @@ public class Banco {
 
     public void transferir(int origemId, int destinoId, double valor) {
         Conta origem = buscarConta(origemId);
+        if (origem == null) {
+            throw new IllegalArgumentException("Conta de origem Inexistente");
+        }
         Conta destino = buscarConta(destinoId);
-
+        if (destino == null) {
+            throw new IllegalArgumentException("Conta de destino Inexistente");
+        }
         origem.sacar(valor);
         destino.depositar(valor);
     }
