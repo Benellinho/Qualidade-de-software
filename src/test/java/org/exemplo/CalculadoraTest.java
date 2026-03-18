@@ -1,4 +1,4 @@
-package exemplo;
+package org.exemplo;
 
 import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;
 import org.junit.jupiter.api.Order;

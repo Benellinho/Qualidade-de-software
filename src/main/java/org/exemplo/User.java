@@ -1,4 +1,4 @@
-package User;
+package org.exemplo;
 
 public class User {
 	private String id;

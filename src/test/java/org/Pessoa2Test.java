@@ -1,6 +1,6 @@
 package org;
 
-import User.Pessoa;
+import org.exemplo.Pessoa;
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.AfterAll;

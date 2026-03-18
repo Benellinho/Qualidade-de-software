@@ -1,4 +1,4 @@
-package User;
+package org.exemplo;
 
 public class Pessoa {
 	int idade;
