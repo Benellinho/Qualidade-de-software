@@ -1,0 +1,22 @@
+1- O Necrótico
+
+O Necrótico é um ser humano amaldiçoado com uma afinidade à morte e impessoalidade, sua ascenção é predita e o futuro nada bonito. 
+O Necrótico é fisicamente fraco, mas compensa enormemente em seus traquejos intelectuais e mágicos.
+Sua magia é de tipo REAL e METABÓLICO.
+
+Vida: 40          Defesa: 0          Esquiva: 1          Dano: 5          Energia: 50
+
+2- A Niilista
+
+A Niilista carrega dentro de si resquícios da destruição pura, seus ideais egoístas e torpes refletem o abuso de poder intercedido por ela.
+A Niilista é fisicamente intermediária, com traquejos mágicos e intelectuais acima da média.
+Sua magia é de tipo DIVINO.
+
+Vida: 45          Defesa: 2          Esquiva: 2          Dano: 10          Energia: 30
+
+3- O Cruel
+
+O Cruel carrega nos fundos da sua mente todo o ódio e rancôr de uma vida mal-vivida. Seu desejo por causar sofrimento e seu sadismo fazem dele um executor perfeito.
+O Cruel é fisicamente forte, com traquejos mentais levemente acima da média e uma capacidade mágica um pouco abaixo da média.
+
+Vida: 60          Defesa: 5          Esquiva: 2          Dano: 15          Energia: 20

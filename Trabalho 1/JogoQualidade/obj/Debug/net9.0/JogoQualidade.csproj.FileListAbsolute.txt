@@ -1,0 +1,14 @@
+/home/ramon/Área de trabalho/JogoQualidade/bin/Debug/net9.0/JogoQualidade
+/home/ramon/Área de trabalho/JogoQualidade/bin/Debug/net9.0/JogoQualidade.deps.json
+/home/ramon/Área de trabalho/JogoQualidade/bin/Debug/net9.0/JogoQualidade.runtimeconfig.json
+/home/ramon/Área de trabalho/JogoQualidade/bin/Debug/net9.0/JogoQualidade.dll
+/home/ramon/Área de trabalho/JogoQualidade/bin/Debug/net9.0/JogoQualidade.pdb
+/home/ramon/Área de trabalho/JogoQualidade/obj/Debug/net9.0/JogoQualidade.GeneratedMSBuildEditorConfig.editorconfig
+/home/ramon/Área de trabalho/JogoQualidade/obj/Debug/net9.0/JogoQualidade.AssemblyInfoInputs.cache
+/home/ramon/Área de trabalho/JogoQualidade/obj/Debug/net9.0/JogoQualidade.AssemblyInfo.cs
+/home/ramon/Área de trabalho/JogoQualidade/obj/Debug/net9.0/JogoQualidade.csproj.CoreCompileInputs.cache
+/home/ramon/Área de trabalho/JogoQualidade/obj/Debug/net9.0/JogoQualidade.dll
+/home/ramon/Área de trabalho/JogoQualidade/obj/Debug/net9.0/refint/JogoQualidade.dll
+/home/ramon/Área de trabalho/JogoQualidade/obj/Debug/net9.0/JogoQualidade.pdb
+/home/ramon/Área de trabalho/JogoQualidade/obj/Debug/net9.0/JogoQualidade.genruntimeconfig.cache
+/home/ramon/Área de trabalho/JogoQualidade/obj/Debug/net9.0/ref/JogoQualidade.dll
