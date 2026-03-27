@@ -32,6 +32,9 @@ public class Conta {
     }
 
     public void sacar(double valor) {
+        if (valor <= 0) {
+            throw new IllegalArgumentException("Valor invalido");
+        }
         if (valor > saldo) {
             throw new IllegalArgumentException("Saldo insuficiente");
         }

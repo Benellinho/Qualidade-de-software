@@ -37,7 +37,7 @@ class BancoTest {
 
     @Test
     @DisplayName("Nao deve permitir transferencia a partir de uma conta de origem inexistente")
-    void naoDevePermitirTransferenciaDeContaInexistente() {
+    void naoDevePermitirTransferenciaDeContaOrigemInexistente() {
         Banco banco = new Banco();
         Conta destino = banco.abrirConta("Maria");
 
@@ -49,6 +49,25 @@ class BancoTest {
 
         assertEquals(
                 "Conta de origem Inexistente",
+                erro.getMessage(),
+                "A mensagem da excecao deveria indicar que a conta de origem nao foi encontrada."
+        );
+    }
+
+    @Test
+    @DisplayName("Nao deve permitir transferencia a partir de uma conta de origem inexistente")
+    void naoDevePermitirTransferenciaDeContaDesitnoInexistente() {
+        Banco banco = new Banco();
+        Conta destino = banco.abrirConta("Maria");
+
+        IllegalArgumentException erro = assertThrows(
+                IllegalArgumentException.class,
+                () -> banco.transferir(destino.getId(), 999, 50),
+                "Transferencias com conta de origem inexistente deveriam falhar."
+        );
+
+        assertEquals(
+                "Conta de destino Inexistente",
                 erro.getMessage(),
                 "A mensagem da excecao deveria indicar que a conta de origem nao foi encontrada."
         );
