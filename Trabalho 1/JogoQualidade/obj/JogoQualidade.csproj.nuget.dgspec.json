@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1luca\\EU\\Softwear\\Qualidade de software\\trabalho 1\\JogoQualidade\\JogoQualidade.csproj": {}
+    "C:\\Users\\1luca\\EU\\Softwear\\Qualidade de software\\Trabalho 1\\JogoQualidade\\JogoQualidade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1luca\\EU\\Softwear\\Qualidade de software\\trabalho 1\\JogoQualidade\\JogoQualidade.csproj": {
+    "C:\\Users\\1luca\\EU\\Softwear\\Qualidade de software\\Trabalho 1\\JogoQualidade\\JogoQualidade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1luca\\EU\\Softwear\\Qualidade de software\\trabalho 1\\JogoQualidade\\JogoQualidade.csproj",
+        "projectUniqueName": "C:\\Users\\1luca\\EU\\Softwear\\Qualidade de software\\Trabalho 1\\JogoQualidade\\JogoQualidade.csproj",
         "projectName": "JogoQualidade",
-        "projectPath": "C:\\Users\\1luca\\EU\\Softwear\\Qualidade de software\\trabalho 1\\JogoQualidade\\JogoQualidade.csproj",
+        "projectPath": "C:\\Users\\1luca\\EU\\Softwear\\Qualidade de software\\Trabalho 1\\JogoQualidade\\JogoQualidade.csproj",
         "packagesPath": "C:\\Users\\1luca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1luca\\EU\\Softwear\\Qualidade de software\\trabalho 1\\JogoQualidade\\obj\\",
+        "outputPath": "C:\\Users\\1luca\\EU\\Softwear\\Qualidade de software\\Trabalho 1\\JogoQualidade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\1luca\\AppData\\Roaming\\NuGet\\NuGet.Config"
