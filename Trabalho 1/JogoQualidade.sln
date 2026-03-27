@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoQualidade", "JogoQualidade\JogoQualidade.csproj", "{EC5F7D95-AD06-4622-809E-CE6A420E115C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoQualidade.Tests", "JogoQualidade.Tests\JogoQualidade.Tests.csproj", "{91B90CAC-A02E-47F4-A35E-ADD82E35CC96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC5F7D95-AD06-4622-809E-CE6A420E115C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5F7D95-AD06-4622-809E-CE6A420E115C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5F7D95-AD06-4622-809E-CE6A420E115C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5F7D95-AD06-4622-809E-CE6A420E115C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91B90CAC-A02E-47F4-A35E-ADD82E35CC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B90CAC-A02E-47F4-A35E-ADD82E35CC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B90CAC-A02E-47F4-A35E-ADD82E35CC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B90CAC-A02E-47F4-A35E-ADD82E35CC96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

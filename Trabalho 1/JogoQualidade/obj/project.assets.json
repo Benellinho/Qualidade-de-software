@@ -1,37 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net8.0": []
   },
   "packageFolders": {
-    "/home/ramon/.nuget/packages/": {}
+    "C:\\Users\\1luca\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ramon/Área de trabalho/JogoQualidade/JogoQualidade.csproj",
+      "projectUniqueName": "C:\\Users\\1luca\\EU\\Softwear\\Qualidade de software\\Trabalho 1\\JogoQualidade\\JogoQualidade.csproj",
       "projectName": "JogoQualidade",
-      "projectPath": "/home/ramon/Área de trabalho/JogoQualidade/JogoQualidade.csproj",
-      "packagesPath": "/home/ramon/.nuget/packages/",
-      "outputPath": "/home/ramon/Área de trabalho/JogoQualidade/obj/",
+      "projectPath": "C:\\Users\\1luca\\EU\\Softwear\\Qualidade de software\\Trabalho 1\\JogoQualidade\\JogoQualidade.csproj",
+      "packagesPath": "C:\\Users\\1luca\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\1luca\\EU\\Softwear\\Qualidade de software\\Trabalho 1\\JogoQualidade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/ramon/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\1luca\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net9.0"
+        "net8.0"
       ],
       "sources": {
-        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -44,12 +43,11 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
-      "net9.0": {
-        "targetAlias": "net9.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -66,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.115/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
